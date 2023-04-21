@@ -84,6 +84,10 @@
         border: 1px solid black;
         padding: 7px 9px;
     }
-    #rating{
+    .rating{
         cursor: pointer;
+        height:20px; 
+        width:20px;
+        vertical-align: middle;
+        margin: 0 5px;
     }
